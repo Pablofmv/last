@@ -1,4 +1,3 @@
-var PORT = process.env.PORT || 5000;
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
